@@ -15,4 +15,3 @@ PROCEDURE P_VALIDATION_PAGE(p_sent varchar2 default null);
     PROCEDURE P_FEES_TRACKING    ;                                 
 END KWLKRFND;
 /
-
